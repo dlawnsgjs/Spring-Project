@@ -44,6 +44,7 @@
 <div align="center">
     
 | ![슬라이드1](https://github.com/user-attachments/assets/0c659154-dd66-4b9a-b41e-afdd344c23b5) | ![슬라이드2](https://github.com/user-attachments/assets/95dfa20c-75d7-4c1b-891d-b748a5c50b87) |
+| :-------------: | :-------------: | 
 | ![슬라이드3](https://github.com/user-attachments/assets/8bd8ae33-c7f4-46f7-aa7a-d1e1e0102606) | ![슬라이드4](https://github.com/user-attachments/assets/91137813-e14b-4778-8b83-59fac4c50144) |
 | ![슬라이드5](https://github.com/user-attachments/assets/6f9bfba9-ddaf-43ed-bd3b-a405758e7d36) | ![슬라이드6](https://github.com/user-attachments/assets/ed4f262b-be73-4e1e-801e-3fe82450397f) |
 | ![슬라이드7](https://github.com/user-attachments/assets/29710641-418d-4f58-8e26-f951675a7690) | ![슬라이드8](https://github.com/user-attachments/assets/76a2ddee-9198-4a30-8dc2-bd87b1b988bb) |
