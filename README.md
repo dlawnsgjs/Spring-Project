@@ -58,6 +58,17 @@
 | ![슬라이드12](https://github.com/user-attachments/assets/da6c673a-71c5-490c-b11f-8dceeb2f4ceb) | ![슬라이드13](https://github.com/user-attachments/assets/f4a21625-2149-4e38-88ae-6531d5aaa15f) |
 | ![슬라이드14](https://github.com/user-attachments/assets/4b17357e-9eba-4717-b403-f8c1b42bac11) | ![슬라이드15](https://github.com/user-attachments/assets/d07a4ff4-1b55-432f-af69-bb1cbd66f989) |
 | ![슬라이드16](https://github.com/user-attachments/assets/318994d8-2b24-46e2-86df-d7aeef7c314c) | ![슬라이드18](https://github.com/user-attachments/assets/05f826ec-3c54-4348-855c-d35b24407a97) |
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/96f7060c-2644-47ef-a388-a6e60fa78115" />
+  <img src="https://github.com/user-attachments/assets/93c0c38a-508c-4af8-9db9-62f811dac318" />
+</div>
+
+
+<div align="center">
+  
 | ![슬라이드20](https://github.com/user-attachments/assets/c2b9c7ed-9b99-4d4d-9222-50a12c0382a0) | ![슬라이드21](https://github.com/user-attachments/assets/a9ca2b40-b53c-43e4-a4fb-426b7465f508) |
 | ![슬라이드22](https://github.com/user-attachments/assets/7b459f69-fe33-46f3-8e1c-6d816eb02942) | ![슬라이드23](https://github.com/user-attachments/assets/eb3812e9-2cef-4a74-aee0-7057b8ad26c3) |
 | ![슬라이드24](https://github.com/user-attachments/assets/c5729bbb-73aa-4609-b2c8-db6e4b68ac23) | ![슬라이드25](https://github.com/user-attachments/assets/84795796-dc61-4903-b82c-e98041ba8d7f) |
@@ -71,12 +82,8 @@
 | ![슬라이드40](https://github.com/user-attachments/assets/db430eed-38bf-4b70-93bb-74a637d183d6) | ![슬라이드41](https://github.com/user-attachments/assets/39947d64-e4f5-4369-a777-08e46dcca024) |
 | ![슬라이드42](https://github.com/user-attachments/assets/190765d5-8a97-4a94-b3b3-5007f7604886) | ![슬라이드43](https://github.com/user-attachments/assets/0e3ec244-8ac7-49fc-bc89-de642e2658b4) |
 
-<img src="https://github.com/user-attachments/assets/96f7060c-2644-47ef-a388-a6e60fa78115" />
-<img src="https://github.com/user-attachments/assets/93c0c38a-508c-4af8-9db9-62f811dac318" />
-
-
-
 </div>
+
 
 
 ## 5. 핵심 기능
@@ -84,7 +91,11 @@
 #### 회원
 - 로그인
 - 회원가입
-- 설문조사가 조기종료 혹은 정상종료 될 경우, 회원에서 포인트 지급
+- 영화 선택
+- 좌석 예매
+- 마이페이지
+- 리뷰
+- 결제
 
 #### 영화 예매
 - 소셜 로그인(네이버, 구글)
