@@ -70,6 +70,7 @@
 <div align="center">
   
 | ![슬라이드20](https://github.com/user-attachments/assets/c2b9c7ed-9b99-4d4d-9222-50a12c0382a0) | ![슬라이드21](https://github.com/user-attachments/assets/a9ca2b40-b53c-43e4-a4fb-426b7465f508) |
+| :-------------: | :-------------: | 
 | ![슬라이드22](https://github.com/user-attachments/assets/7b459f69-fe33-46f3-8e1c-6d816eb02942) | ![슬라이드23](https://github.com/user-attachments/assets/eb3812e9-2cef-4a74-aee0-7057b8ad26c3) |
 | ![슬라이드24](https://github.com/user-attachments/assets/c5729bbb-73aa-4609-b2c8-db6e4b68ac23) | ![슬라이드25](https://github.com/user-attachments/assets/84795796-dc61-4903-b82c-e98041ba8d7f) |
 | ![슬라이드26](https://github.com/user-attachments/assets/86fda831-ae1e-4d3c-8a8b-d045f416fcfb) | ![슬라이드27](https://github.com/user-attachments/assets/a2abaebd-4ea4-442f-be4c-8a9c78fb0813) |
