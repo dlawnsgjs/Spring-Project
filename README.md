@@ -1,6 +1,8 @@
 <h1 align="center">
   
-  ![ppt_PS_01](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/9b4563af-8066-4cab-a848-c7879b27d9c7)
+  ![1](https://github.com/user-attachments/assets/0425d980-d650-40ff-b11e-12e53f979cd2)
+
+
 
   </h1>
   <h1 align="center">스프링부트 + 리액트 온라인 설문조사 프로젝트</h1>
