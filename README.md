@@ -5,40 +5,45 @@
 
 
   </h1>
-  <h1 align="center">스프링부트 + 리액트 온라인 설문조사 프로젝트</h1>
-  <h3 align="center"><a href="https://github.com/JongHoonKim1004/ProjectReact">리액트 페이지</a> 는 이쪽으로</h3>
+  <h1 align="center">Spring Framework Project</h1>
+  <h3 align="center">202 Success</h3>
   <br /><br />
   
   ## 목차
   
-  - [개요](https://github.com/JongHoonKim1004/Project_Survey#-개요)
+  - [개요](https://github.com/dlawnsgjs/Spring-Project#-개요)
+
+  - [팀원](https://github.com/dlawnsgjs/Spring-Project#-팀원)
   
-  - [기술 스택](https://github.com/JongHoonKim1004/Project_Survey#-기술-스택)
+  - [기술 스택](https://github.com/dlawnsgjs/Spring-Project#-기술-스택)
     
-  - [프로젝트 설계](https://github.com/JongHoonKim1004/Project_Survey#-프로젝트-설계)
+  - [프로젝트 설계](https://github.com/dlawnsgjs/Spring-Project#-프로젝트-설계)
     
-  - [핵심 기능](https://github.com/JongHoonKim1004/Project_Survey#-핵심-기능)
+  - [핵심 기능](https://github.com/dlawnsgjs/Spring-Project#-핵심-기능)
     
-  - [주요기능 실행화면](https://github.com/JongHoonKim1004/Project_Survey#-주요기능-실행화면)
+  - [주요기능 실행화면](https://github.com/dlawnsgjs/Spring-Project#-주요기능-실행화면)
     
-  - [개선사항](https://github.com/JongHoonKim1004/Project_Survey#-개선사항)
+  - [개선사항](https://github.com/dlawnsgjs/Spring-Project#-개선사항)
 
 
-  ## 🚩 개요
-  - 프로젝트 목표 : 다양한 API 이용과 분리된 서버와 클라이언트 이용을 위한 `스프링부트`, `리액트` 온라인 설문조사 프로젝트
-  - 개발 기간 : 24/04/24 ~ 24/05/22
+  ## 1. 개요
+  - 프로젝트 목표 : 사용자들이 간편하게 자동차 극장에서 상영 중인 영화의 좌석을 예매하고 관리할 수 있는 웹 애플리케이션을 개발하는 프로젝트
+  - 개발 기간 : 24/11/25 ~ 24/12/13
 
-  ## 🔧 기술 스택
-  - API : `다음 주소 API`, `PORTONE API`, `네이버 API`, `Google API`, `CKEditor`
-  - Language : `Java(17)`, `JavaScript(ES6)`
-  - Library & Framework : `Spring Boot(3.1.11)`, `React(18.3.0)`, `Redux(9.1.2)`, `Spring Data JPA(3.1.11)`, `Spring Security(6.1.9)`, `JJWT(0.12.5)`
-  - Database : `MySQL(8.0)`
+  ## 2. 팀원
+  - 임준헌
+  - 미재원
+
+  ## 3. 기술 스택
+  - API : `카카오 로그인 API`, `카카오 페이 API`, `TMDB API`, `Kobis API`, `OpenWeatherMap API`
+  - Language : `Java(11)`, `JavaScript(1.5)`
+  - Library & Framework : `Spring(5.2.7)`, `JUnit(4.12)`, `Spring Security(5.2.7)`
+  - Database : Oracle(11)`
   - Target : `Web Browser`
-
-  - Tool : `IntelliJ IDEA 2024.1`
+  - Tool : `Spring Tool Suite 3.9.18.RELEASE`
   - ETC : `Git`
 
-  ## 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
+  ## 4. 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
 프로젝트 설계, 구현, PPT
   
 <div align="center">
@@ -52,8 +57,9 @@
 | ![슬라이드10](https://github.com/user-attachments/assets/4723b4f8-6ccf-4a19-91f5-1b70425bd471) | ![슬라이드11](https://github.com/user-attachments/assets/59493e7b-8a59-4f1b-b185-d388a2d97aa9) |
 | ![슬라이드12](https://github.com/user-attachments/assets/da6c673a-71c5-490c-b11f-8dceeb2f4ceb) | ![슬라이드13](https://github.com/user-attachments/assets/f4a21625-2149-4e38-88ae-6531d5aaa15f) |
 | ![슬라이드14](https://github.com/user-attachments/assets/4b17357e-9eba-4717-b403-f8c1b42bac11) | ![슬라이드15](https://github.com/user-attachments/assets/d07a4ff4-1b55-432f-af69-bb1cbd66f989) |
-| ![슬라이드16](https://github.com/user-attachments/assets/318994d8-2b24-46e2-86df-d7aeef7c314c) | ![슬라이드17](https://github.com/user-attachments/assets/96f7060c-2644-47ef-a388-a6e60fa78115) |
-| ![슬라이드18](https://github.com/user-attachments/assets/05f826ec-3c54-4348-855c-d35b24407a97) | ![슬라이드19](https://github.com/user-attachments/assets/93c0c38a-508c-4af8-9db9-62f811dac318) |
+| ![슬라이드16](https://github.com/user-attachments/assets/318994d8-2b24-46e2-86df-d7aeef7c314c) | ![슬라이드18](https://github.com/user-attachments/assets/05f826ec-3c54-4348-855c-d35b24407a97) |
+| ![슬라이드17](https://github.com/user-attachments/assets/96f7060c-2644-47ef-a388-a6e60fa78115) |
+| ![슬라이드19](https://github.com/user-attachments/assets/93c0c38a-508c-4af8-9db9-62f811dac318) |
 | ![슬라이드20](https://github.com/user-attachments/assets/c2b9c7ed-9b99-4d4d-9222-50a12c0382a0) | ![슬라이드21](https://github.com/user-attachments/assets/a9ca2b40-b53c-43e4-a4fb-426b7465f508) |
 | ![슬라이드22](https://github.com/user-attachments/assets/7b459f69-fe33-46f3-8e1c-6d816eb02942) | ![슬라이드23](https://github.com/user-attachments/assets/eb3812e9-2cef-4a74-aee0-7057b8ad26c3) |
 | ![슬라이드24](https://github.com/user-attachments/assets/c5729bbb-73aa-4609-b2c8-db6e4b68ac23) | ![슬라이드25](https://github.com/user-attachments/assets/84795796-dc61-4903-b82c-e98041ba8d7f) |
@@ -72,14 +78,14 @@
 </div>
 
 
-## 💻 핵심 기능
+## 5. 핵심 기능
 
-#### 설문조사
-- 설문조사의 시작일과 종료일 사이에 있는 (이용 가능한) 설문조사 목록을 출력
-- 설문조사의 각 질문에 응답할 때마다 서버에 응답을 전송, 서버에서는 DB에 저장과 동시에 조기종료 여부 확인
+#### 회원
+- 로그인
+- 회원가입
 - 설문조사가 조기종료 혹은 정상종료 될 경우, 회원에서 포인트 지급
 
-#### 일반회원
+#### 영화 예매
 - 소셜 로그인(네이버, 구글)
 - 이메일 중복확인
 - 비밀번호 암호화 처리
@@ -100,7 +106,7 @@
 - 자주묻는 답변 작성
 - 일반회원, 사업자 관리
 
-## 🎇 주요기능 실행화면
+## 6. 주요기능 실행화면
 주요기능 실행화면
 
   * **메인 페이지**
@@ -210,7 +216,7 @@
 
 
 
-## 🌄 개선사항
+## 7. 개선사항
 - 일반회원의 설문조사 참여에 관한 알고리즘 구성
 - 일반회원의 적립된 포인트 사용처 확보
 - 설문조사 생성 시 조기종료 조건의 구체화
