@@ -1,6 +1,7 @@
 <h1 align="center">
   
- ![메인](https://github.com/user-attachments/assets/a7df2e53-09d5-4171-8054-4c5e6cd03f30)
+
+![main](https://github.com/user-attachments/assets/dc78d7fd-57d6-4922-b471-863964c54292)
 
 
 
