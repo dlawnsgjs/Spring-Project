@@ -192,7 +192,8 @@
     * 내용을 작성하지 않을 경우 경고창이 출력됩니다.
     * 제출 버튼을 누르면 리뷰가 추가 되는 것을 볼 수 있습니다.
    
-    
+    ![reviewins](https://github.com/user-attachments/assets/14efec9b-8433-4470-88db-8bc13293f386)
+
     <br/>
 
   - 리뷰 수정
