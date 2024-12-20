@@ -8,7 +8,7 @@
 
   </h1>
   <h1 align="center">Spring Framework Project 영화어때</h1>
-  <h3 align="center">202 Success</h3>
+  <h3 align="center">팀명 : 202 Success</h3>
   <br /><br />
   
   ## 목차
