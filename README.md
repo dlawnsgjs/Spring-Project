@@ -11,28 +11,36 @@
   
   ## 목차
   
-  - [개요](https://github.com/dlawnsgjs/Spring-Project#개요)
+  - [개요](#one)
 
-  - [팀원](https://github.com/dlawnsgjs/Spring-Project#팀원)
+  - [팀원](#two)
   
-  - [기술 스택](https://github.com/dlawnsgjs/Spring-Project#기술스택)
+  - [기술 스택](#three)
     
-  - [프로젝트 설계](https://github.com/dlawnsgjs/Spring-Project#프로젝트-설계)
+  - [프로젝트 설계](#four)
     
-  - [핵심 기능](https://github.com/dlawnsgjs/Spring-Project#핵심기능)
+  - [핵심 기능](#five)
     
-  - [주요기능 실행화면](https://github.com/dlawnsgjs/Spring-Project#주요기능-실행화면)
+  - [주요기능 실행화면](#six)
     
-  - [개선사항](https://github.com/dlawnsgjs/Spring-Project#개선사항)
+  - [개선사항](#seven)
 
+<br/>
+<br/>
 
-  ## 1. 개요
+  ## 1. 개요 <a id="one"></a>
   - 프로젝트 목표 : 사용자들이 간편하게 자동차 극장에서 상영 중인 영화의 좌석을 예매하고 관리할 수 있는 웹 애플리케이션을 개발하는 프로젝트
   - 개발 기간 : 24/11/25 ~ 24/12/13
+
+<br/>
+<br/>
 
   ## 2. 팀원
   - 임준헌
   - 미재원
+
+<br/>
+<br/>
 
   ## 3. 기술 스택
   - API : `카카오 로그인 API`, `카카오 페이 API`, `TMDB API`, `Kobis API`, `OpenWeatherMap API`
