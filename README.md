@@ -141,6 +141,14 @@
 <br/>
 
   #### 메인 페이지
+    
+  - 공지사항
+    * 메인페이지가 열리면 공지사항 팝업창이 뜨게 됩니다.
+
+    ![1  공지사항팝업](https://github.com/user-attachments/assets/895ee0ba-2f06-49bd-a95e-537836737df0)
+
+
+<br/>
   
   - 회원가입
     * 로그인 페이지에서 카카오 로그인 API를 통해 카카오 계정과 닉네임을 받아와 회원 가입을 진행 합니다.
@@ -148,16 +156,17 @@
     * 비밀번호가 다를시 경고창이 출력됩니다.
     * 생년월일이 양식에 맞지 않으면 경고창이 출력됩니다.  
 
-    ![회원가입 (1)](https://github.com/user-attachments/assets/009d1566-0114-4d08-bbc0-f16fcdaa564f)
-
+    ![회원가입](https://github.com/user-attachments/assets/009d1566-0114-4d08-bbc0-f16fcdaa564f)
 
     <br/>
 
   - 로그인
     * 회원 가입을 진행한 후 바로 로그인 페이지로 이동하여 로그인을 유도합니다.
     * 사용자가 로그인 하였을시 메인페이지 우측상단에 이름이 보여지게 됩니다.
-      
-    ![로그인](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/d15792bb-ce78-461f-9bac-44ba31d9dc95)
+    * 아이디는 회원가입할 때 작성한 아이디가 바로 쓰여져 있습니다.
+    * 비밀번호 잘못 입력시 경고창이 출력됩니다.
+
+   
 
 <br/>
 <br/>
@@ -169,8 +178,7 @@
     * KOBIS, TMDB API를 사용하여 오늘 날짜 기준으로 어제의 인기영화 순서로 10위까지 보여집니다.
     * 마우스 호버시 영화의 줄거리가 간략하게 나오며 아래 하트를 눌렀을 때 숫자가 증가 합니다.
    
-    ![more](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
-
+   
 <br/>
 <br/>
 
@@ -184,7 +192,7 @@
     * 내용을 작성하지 않을 경우 경고창이 출력됩니다.
     * 제출 버튼을 누르면 리뷰가 추가 되는 것을 볼 수 있습니다.
    
-    ![리뷰작성](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    
     <br/>
 
   - 리뷰 수정
@@ -192,7 +200,8 @@
     * 이미지를 클릭하면 모달창이 뜨면서 수정 버튼이 보여집니다.
     * 수정 버튼을 클릭하면 수정 모달창이 뜨고 수정버튼을 누르면 리뷰 수정이 완료됩니다.
     
-    ![리뷰수정](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    ![6  리뷰수정](https://github.com/user-attachments/assets/afc881b2-f63d-40fd-b8dd-e944dbac5c1c)
+
     <br/>
       
   - 리뷰 삭제
@@ -200,7 +209,8 @@
     * 이미지를 클릭하면 모달창이 뜨면서 삭제 버튼이 보여집니다.
     * 삭제 버튼을 클릭하면 알림창이 뜨고, 한번더 확인을 눌러야 삭제가 완료됩니다.
     
-    ![리뷰삭제](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    ![7  리뷰삭제](https://github.com/user-attachments/assets/2e817b11-9c8c-4d14-a550-f65a50f1a49b)
+
     <br/>
    
   - 리뷰 신고
@@ -208,7 +218,8 @@
     * 이미지를 클릭하면 알림창이 뜨며, 한번 더 확인을 눌러야 신고가 완료됩니다.
     * 신고된 리뷰를 다시 신고하게 되면 경고창이 출력됩니다.
 
-    ![리뷰신고](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    ![8  리뷰 신고](https://github.com/user-attachments/assets/d8429f38-9ce1-4788-92c3-17bdebf7eb1f)
+
 
 <br/>
 <br/>
@@ -219,7 +230,8 @@
     * 차량 크기 선택을 하지 않고 좌석을 클릭하면 경고창이 출력됩니다.
     * 차량 크기 별 선택 할 수 있는 좌석을 제한했습니다.
 
-    ![차량크기선택](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+   ![9  차량크기선택](https://github.com/user-attachments/assets/583c61b1-5f01-4711-b6ff-3513d714ae46)
+
     <br/>
 
   - 좌석 선택
@@ -227,20 +239,23 @@
     * 좌석을 클릭할 경우 아래에 선택된 좌석과 금액이 보여집니다.
     * 선택 할 수 있는 좌석은 최대 1개로 다른 좌석을 선택 할 경우 선택 영역이 바뀌게 됩니다.
      
-    ![좌석선택](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    ![10  좌석 선택](https://github.com/user-attachments/assets/e2a76fa1-ea9e-4f41-909f-7e65f389d609)
+
     <br/>
 
   - 리셋
     * 사용자가 선택한 모든 것을 초기화합니다.
      
-    ![리셋](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+   ![11  리셋](https://github.com/user-attachments/assets/994914c2-7301-494a-b0fa-582dbf5611fc)
+
     <br/>
 
   - 예매하기
     * 사용자가 진행한 값을 저장합니다.
     * 마이페이지로 이동을 하게 됩니다.
 
-    ![예매하기](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    ![12  예매하기](https://github.com/user-attachments/assets/ed235988-bd49-41d0-816a-3c9fad33cff0)
+
 
 <br/>
 <br/>        
@@ -251,20 +266,23 @@
     * 사용자가 예매한 정보를 확인합니다.
     * 보기 편하게 예매내역이 숫자로 표기됩니다.
 
-    ![마이페이지](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+   ![13  마이페이지](https://github.com/user-attachments/assets/e35937c8-0d03-4584-8257-98c19e405486)
+
     <br/>
 
   - 결제
     * 카카오 페이 API를 사용하여 결제를 진행합니다.
      
-    ![결제](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    ![14  결제](https://github.com/user-attachments/assets/e7aebc3b-0019-44f3-8999-ae52a80bc270)
+
     <br/>
 
   - 취소
     * 사용자의 예매를 취소하는 경고창이 출력됩니다.
     * 예매내역이 없을 경우 특정 이미지가 보여지게 됩니다.
      
-    ![예매취소](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    ![15  예매취소](https://github.com/user-attachments/assets/b09d07bd-a9c3-48b4-8860-252e495f6086)
+
 
 <br/>
 <br/> 
@@ -275,28 +293,34 @@
     * 관리자 계정으로 로그인을 하면 관리자 페이지로 이동하게 됩니다.
     * 관리자 메인페이지에 예약, 유저, 신고리뷰 수가 표시되며 날씨 API도 보입니다.
    
-    ![관리자 로그인](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/696f4580-2dfe-4131-94bb-ae5fd7d0de5d)
+    ![16  관리자로그인](https://github.com/user-attachments/assets/292b2eef-5c52-40eb-b7ce-53ffe731b668)
+
     <br/>
 
   - 공지사항
     * 좌측 사이드바의 `공지사항 관리` -> `공지사항 목록`을 통해 공지사항 목록을 호출하고, 공지사항 내용을 확인할 수 있는 페이지로 이동할 수 있습니다.
     * `공지사항 작성`을 통해 공지사항 작성 페이지로 이동하여 공지사항을 작성할 수 있습니다.
      
-    ![공지사항](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+    ![17  공지사항작성](https://github.com/user-attachments/assets/42971ab4-249d-4908-ad8f-8409d19634b6)
+
     <br/>
 
   - 리뷰관리
     * 좌측 사이드바의 `리뷰 관리` -> `신고 리뷰 목록`을 통해 신고 리뷰 목록을 호출하고, 리뷰 내용을 확인할 수 있는 페이지로 이동할 수 있습니다.
     * 리뷰 확인 후 삭제를 하면 리뷰가 삭제되면서 리뷰 작성자에게 삭제되었다는 메일이 발송됩니다.
     * 페이징 처리와 검색기능으로 영화이름 및 닉네임을 검색하여 볼 수 있습니다.
-     
-    ![리뷰관리](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+   
+     ![18  신고리뷰 관리](https://github.com/user-attachments/assets/6f6d9313-33e0-4ad9-9d96-197b6c3d91de)
+
+    ![19  리뷰 삭제 메일 전송](https://github.com/user-attachments/assets/7b8c6ae9-2d50-478a-aebf-dc782e3929c5)
+
     <br/>
 
   - 영화관리
     * 좌측 사이드바의 `영화 관리` -> `영화 목록`을 통해 영화 목록을 호출하여 어떤 영화가 있는지 볼 수 있습니다.
      
-    ![영화관리](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+    ![20  영화관리](https://github.com/user-attachments/assets/809f8775-baf9-4212-8a2b-1252bf9f7ae1)
+
     <br/>
 
   - 예약관리
@@ -304,7 +328,8 @@
     * `예약 내용 확인`을 통해 예약을 취소 시킬 수 있습니다.
     * 페이징 처리와 검색 기능으로 영화이름 및 닉네임을 검색하여 볼 수 있습니다.
      
-    ![예약관리](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+    ![21  예매관리](https://github.com/user-attachments/assets/eb5f8a26-c6e8-4c98-b347-9180a867b6cb)
+
     <br/>
 
   - 회원관리
@@ -312,8 +337,8 @@
     * `회원 정보 확인`을 통해 회원 정보를 삭제 시킬 수 있습니다.
     * 페이징 처리와 검색 기능으로 아이디 및 닉네임을 검색하여 볼 수 있습니다.
      
-    ![회원관리](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
-    
+    ![22  회원관리](https://github.com/user-attachments/assets/22a9ad41-689a-4594-affa-4a06ab278c5b)
+
 <br/>
 <br/>
 
