@@ -154,7 +154,8 @@
       
       ![PS_01_login socialLogin](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/d15792bb-ce78-461f-9bac-44ba31d9dc95)
 
-    
+<br/>
+<br/>
 
 
   * **더 많은 영화보기 페이지**
@@ -165,7 +166,8 @@
    
       ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
 
-
+<br/>
+<br/>
 
   * **영화 상세 보기 페이지**
 
@@ -200,7 +202,8 @@
 
       ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
 
-
+<br/>
+<br/>
 
   * **예매 페이지**
 
@@ -228,7 +231,8 @@
 
       ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
 
-        
+<br/>
+<br/>        
         
  * **마이페이지**
 
@@ -249,7 +253,8 @@
      
       ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
 
-  
+ <br/>
+<br/> 
 
   * **관리자**
 
