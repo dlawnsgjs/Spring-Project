@@ -55,7 +55,7 @@
 | ![슬라이드7](https://github.com/user-attachments/assets/29710641-418d-4f58-8e26-f951675a7690) |  |
 | ![슬라이드8](https://github.com/user-attachments/assets/76a2ddee-9198-4a30-8dc2-bd87b1b988bb) | ![슬라이드9](https://github.com/user-attachments/assets/cc0a9028-05d1-4196-b0ab-84bae5fedf05) | 
 | ![슬라이드10](https://github.com/user-attachments/assets/4723b4f8-6ccf-4a19-91f5-1b70425bd471) | ![슬라이드11](https://github.com/user-attachments/assets/59493e7b-8a59-4f1b-b185-d388a2d97aa9) |
-| ![슬라이드12](https://github.com/user-attachments/assets/da6c673a-71c5-490c-b11f-8dceeb2f4ceb) | ![슬라이드13](https://github.com/user-attachments/assets/f4a21625-2149-4e38-88ae-6531d5aaa15f) |
+| ![슬라이드12](https://github.com/user-attachments/assets/da6c673a-71c5-490c-b11f-8dceeb2f4ceb) | ![프로젝트기간](https://github.com/user-attachments/assets/24910e0c-fa25-40da-b06e-3339601c238e) |
 | ![슬라이드14](https://github.com/user-attachments/assets/4b17357e-9eba-4717-b403-f8c1b42bac11) | ![슬라이드15](https://github.com/user-attachments/assets/d07a4ff4-1b55-432f-af69-bb1cbd66f989) |
 | ![슬라이드16](https://github.com/user-attachments/assets/318994d8-2b24-46e2-86df-d7aeef7c314c) | ![슬라이드18](https://github.com/user-attachments/assets/05f826ec-3c54-4348-855c-d35b24407a97) |
 
