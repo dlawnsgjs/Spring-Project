@@ -148,9 +148,10 @@
     * 로그인 페이지에서 카카오 로그인 API를 통해 카카오 계정과 닉네임을 받아와 회원 가입을 진행 합니다.
     * 아이디 중복 확인 버튼을 클릭하면 사용 가능 여부가 새로운 창이 뜨면서 알려줍니다.
     * 비밀번호가 다를시 경고창이 출력됩니다.
-    * 생년월일이 양식에 맞지 않으면 경고창이 출력됩니다.
-    
-    ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    * 생년월일이 양식에 맞지 않으면 경고창이 출력됩니다.  
+
+    https://github.com/user-attachments/assets/cb659af4-3cf6-48e6-9c0d-c9e93ddc02f9
+
     <br/>
 
   - 로그인
