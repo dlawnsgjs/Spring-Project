@@ -148,7 +148,8 @@
     * 비밀번호가 다를시 경고창이 출력됩니다.
     * 생년월일이 양식에 맞지 않으면 경고창이 출력됩니다.  
 
-    ![회원가입](https://github.com/user-attachments/assets/e8688c82-7d61-4911-a911-143f74c79c12)
+    ![회원가입 (1)](https://github.com/user-attachments/assets/009d1566-0114-4d08-bbc0-f16fcdaa564f)
+
 
     <br/>
 
