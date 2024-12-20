@@ -148,7 +148,7 @@
     * 비밀번호가 다를시 경고창이 출력됩니다.
     * 생년월일이 양식에 맞지 않으면 경고창이 출력됩니다.  
 
-    ![UserRegister](https://github.com/user-attachments/assets/cb659af4-3cf6-48e6-9c0d-c9e93ddc02f9)
+    ![PS 01 UserRegister](https://github.com/user-attachments/assets/cb659af4-3cf6-48e6-9c0d-c9e93ddc02f9)
 
     <br/>
 
@@ -156,7 +156,7 @@
     * 회원 가입을 진행한 후 바로 로그인 페이지로 이동하여 로그인을 유도합니다.
     * 사용자가 로그인 하였을시 메인페이지 우측상단에 이름이 보여지게 됩니다.
       
-    ![PS_01_login socialLogin](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/d15792bb-ce78-461f-9bac-44ba31d9dc95)
+    ![PS_03_login socialLogin](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/d15792bb-ce78-461f-9bac-44ba31d9dc95)
 
 <br/>
 <br/>
