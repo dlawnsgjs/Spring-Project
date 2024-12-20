@@ -48,7 +48,7 @@
   - API : `카카오 로그인 API`, `카카오 페이 API`, `TMDB API`, `Kobis API`, `OpenWeatherMap API`
   - Language : `Java(11)`, `JavaScript(1.5)`
   - Library & Framework : `Spring(5.2.7)`, `JUnit(4.12)`, `Spring Security(5.2.7)`
-  - Database : Oracle(11)`
+  - Database : `Oracle(11)`
   - Target : `Web Browser`
   - Tool : `Spring Tool Suite 3.9.18.RELEASE`
   - ETC : `Git`
