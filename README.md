@@ -11,19 +11,19 @@
   
   ## 목차
   
-  - [개요](https://github.com/dlawnsgjs/Spring-Project#-개요)
+  - [개요](https://github.com/dlawnsgjs/Spring-Project#개요)
 
-  - [팀원](https://github.com/dlawnsgjs/Spring-Project#-팀원)
+  - [팀원](https://github.com/dlawnsgjs/Spring-Project#팀원)
   
-  - [기술 스택](https://github.com/dlawnsgjs/Spring-Project#-기술-스택)
+  - [기술 스택](https://github.com/dlawnsgjs/Spring-Project#기술스택)
     
-  - [프로젝트 설계](https://github.com/dlawnsgjs/Spring-Project#-프로젝트-설계)
+  - [프로젝트 설계](https://github.com/dlawnsgjs/Spring-Project#프로젝트-설계)
     
-  - [핵심 기능](https://github.com/dlawnsgjs/Spring-Project#-핵심-기능)
+  - [핵심 기능](https://github.com/dlawnsgjs/Spring-Project#핵심기능)
     
-  - [주요기능 실행화면](https://github.com/dlawnsgjs/Spring-Project#-주요기능-실행화면)
+  - [주요기능 실행화면](https://github.com/dlawnsgjs/Spring-Project#주요기능-실행화면)
     
-  - [개선사항](https://github.com/dlawnsgjs/Spring-Project#-개선사항)
+  - [개선사항](https://github.com/dlawnsgjs/Spring-Project#개선사항)
 
 
   ## 1. 개요
