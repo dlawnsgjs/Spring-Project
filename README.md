@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  ![메인](https://github.com/user-attachments/assets/f6b84983-1c14-4444-b3b9-aeef04faca83)
+ ![메인](https://github.com/user-attachments/assets/a7df2e53-09d5-4171-8054-4c5e6cd03f30)
 
 
 
