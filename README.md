@@ -258,7 +258,7 @@
 
   * **관리자**
 
-    *  **관리자 로그인**
+    * **관리자 로그인**
       * 관리자 계정으로 로그인을 하면 관리자 페이지로 이동하게 됩니다.
    
       ![PS_11_AdminDashboard](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/696f4580-2dfe-4131-94bb-ae5fd7d0de5d)
