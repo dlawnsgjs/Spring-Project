@@ -147,6 +147,7 @@
     * 생년월일이 양식에 맞지 않으면 경고창이 출력됩니다.
     
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
 
   - 로그인
     * 회원 가입을 진행한 후 바로 로그인 페이지로 이동하여 로그인을 유도합니다.
@@ -180,6 +181,7 @@
     * 제출 버튼을 누르면 리뷰가 추가 되는 것을 볼 수 있습니다.
    
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
 
   - 리뷰 수정
     * 자신이 작성한 리뷰에 대해서는 수정이 가능한 이미지가 보여집니다.
@@ -187,6 +189,7 @@
     * 수정 버튼을 클릭하면 수정 모달창이 뜨고 수정버튼을 누르면 리뷰 수정이 완료됩니다.
     
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
       
   - 리뷰 삭제
     * 자신이 작성한 리뷰에 대해서는 삭제가 가능한 이미지가 보여집니다.
@@ -194,6 +197,7 @@
     * 삭제 버튼을 클릭하면 알림창이 뜨고, 한번더 확인을 눌러야 삭제가 완료됩니다.
     
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
    
   - 리뷰 신고
     * 다른 사용자가 작성한 리뷰에 대해서는 신고가 가능한 이미지가 보여집니다.
@@ -212,6 +216,7 @@
     * 차량 크기 별 선택 할 수 있는 좌석을 제한했습니다.
 
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
 
   - 좌석 선택
     * 좌석 별 특징을 색상으로 표현했습니다.
@@ -219,11 +224,13 @@
     * 선택 할 수 있는 좌석은 최대 1개로 다른 좌석을 선택 할 경우 선택 영역이 바뀌게 됩니다.
      
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
 
   - 리셋
     * 사용자가 선택한 모든 것을 초기화합니다.
      
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
 
   - 예매하기
     * 사용자가 진행한 값을 저장합니다.
@@ -241,11 +248,13 @@
     * 보기 편하게 예매내역이 숫자로 표기됩니다.
 
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
 
   - 결제
     * 카카오 페이 API를 사용하여 결제를 진행합니다.
      
     ![PS_02_UsersRegister](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/03e68b7a-42bc-4e80-9d5b-93cff3a07311)
+    <br/>
 
   - 취소
     * 사용자의 예매를 취소하는 경고창이 출력됩니다.
@@ -262,12 +271,14 @@
     * 관리자 계정으로 로그인을 하면 관리자 페이지로 이동하게 됩니다.
    
     ![PS_11_AdminDashboard](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/696f4580-2dfe-4131-94bb-ae5fd7d0de5d)
+    <br/>
 
   - 공지사항
     * 좌측 사이드바의 `공지사항 관리` -> `공지사항 목록`을 통해 공지사항 목록을 호출하고, 공지사항 내용을 확인할 수 있는 페이지로 이동할 수 있습니다.
     * `공지사항 작성`을 통해 공지사항 작성 페이지로 이동하여 공지사항을 작성할 수 있습니다.
      
     ![PS_15_AdminNotice](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+    <br/>
 
   - 리뷰관리
     * 좌측 사이드바의 `리뷰 관리` -> `신고 리뷰 목록`을 통해 신고 리뷰 목록을 호출하고, 리뷰 내용을 확인할 수 있는 페이지로 이동할 수 있습니다.
@@ -275,11 +286,13 @@
     * 페이징 처리와 검색기능으로 영화이름 및 닉네임을 검색하여 볼 수 있습니다.
      
     ![PS_15_AdminNotice](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+    <br/>
 
   - 영화관리
     * 좌측 사이드바의 `영화 관리` -> `영화 목록`을 통해 영화 목록을 호출하여 어떤 영화가 있는지 볼 수 있습니다.
      
     ![PS_15_AdminNotice](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+    <br/>
 
   - 예약관리
     * 좌측 사이드바의 `예약 관리` -> `예약 목록`을 통해 예약 목록을 호출하고, 예약 내용을 확인할 수 있는 페이지로 이동할 수 있습니다.
@@ -287,6 +300,7 @@
     * 페이징 처리와 검색 기능으로 영화이름 및 닉네임을 검색하여 볼 수 있습니다.
      
     ![PS_15_AdminNotice](https://github.com/JongHoonKim1004/Project_Survey/assets/155927559/a361d5bf-d4b6-4286-9c31-c36111a10185)
+    <br/>
 
   - 회원관리
     * 좌측 사이드바의 `회원 관리` -> `회원 목록`을 통해 회원 목록을 호출하고, 회원 정보를 확인할 수 있는 페이지로 이동할 수 있습니다.
