@@ -28,7 +28,7 @@
   - [개선사항](#seven)
 
 <br/>
-<br/> \
+<br/> 
 
   ## 1. 개요 <a id="one"></a>
   - 프로젝트 목표 : 사용자들이 간편하게 자동차 극장에서 상영 중인 영화의 좌석을 예매하고 관리할 수 있는 웹 애플리케이션을 개발하는 프로젝트
@@ -177,7 +177,8 @@
   - 영화 API
     * KOBIS, TMDB API를 사용하여 오늘 날짜 기준으로 어제의 인기영화 순서로 10위까지 보여집니다.
     * 마우스 호버시 영화의 줄거리가 간략하게 나오며 아래 하트를 눌렀을 때 숫자가 증가 합니다.
-   
+
+    ![more](https://media.githubusercontent.com/media/dlawnsgjs/Spring-Project/refs/heads/main/more.gif)
    
 <br/>
 <br/>
@@ -192,7 +193,7 @@
     * 내용을 작성하지 않을 경우 경고창이 출력됩니다.
     * 제출 버튼을 누르면 리뷰가 추가 되는 것을 볼 수 있습니다.
    
-    ![reviewins](https://github.com/user-attachments/assets/14efec9b-8433-4470-88db-8bc13293f386)
+    ![리뷰작성](https://media.githubusercontent.com/media/dlawnsgjs/Spring-Project/refs/heads/main/reviewins.gif)
 
     <br/>
 
