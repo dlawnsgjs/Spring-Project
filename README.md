@@ -35,14 +35,14 @@
 <br/>
 <br/>
 
-  ## 2. 팀원
+  ## 2. 팀원 <a id="two"></a>
   - 임준헌
   - 미재원
 
 <br/>
 <br/>
 
-  ## 3. 기술 스택
+  ## 3. 기술 스택 <a id="three"></a>
   - API : `카카오 로그인 API`, `카카오 페이 API`, `TMDB API`, `Kobis API`, `OpenWeatherMap API`
   - Language : `Java(11)`, `JavaScript(1.5)`
   - Library & Framework : `Spring(5.2.7)`, `JUnit(4.12)`, `Spring Security(5.2.7)`
@@ -51,7 +51,7 @@
   - Tool : `Spring Tool Suite 3.9.18.RELEASE`
   - ETC : `Git`
 
-  ## 4. 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
+  ## 4. 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE) <a id="four"></a>
 프로젝트 설계, 구현, PPT
   
 <div align="center">
@@ -98,7 +98,7 @@
 
 
 
-## 5. 핵심 기능
+## 5. 핵심 기능 <a id="five"></a>
 
 #### 회원
 - 로그인
@@ -130,7 +130,7 @@
 - 자주묻는 답변 작성
 - 일반회원, 사업자 관리
 
-## 6. 주요기능 실행화면
+## 6. 주요기능 실행화면 <a id="six"></a>
 주요기능 실행화면
 
   * **메인 페이지**
@@ -240,7 +240,7 @@
 
 
 
-## 7. 개선사항
+## 7. 개선사항 <a id="seven"></a>
 - 일반회원의 설문조사 참여에 관한 알고리즘 구성
 - 일반회원의 적립된 포인트 사용처 확보
 - 설문조사 생성 시 조기종료 조건의 구체화
