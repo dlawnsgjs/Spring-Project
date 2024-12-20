@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-  ## 4. 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE) <a id="four"></a>
+  ## 4. 프로젝트 설계, 구현 📂 PPT 📂 (ERD, CLASS) <a id="four"></a>
 프로젝트 설계, 구현, PPT
   
 <div align="center">
