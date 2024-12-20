@@ -148,7 +148,7 @@
     * 비밀번호가 다를시 경고창이 출력됩니다.
     * 생년월일이 양식에 맞지 않으면 경고창이 출력됩니다.  
 
-    ![PS 01 UserRegister](https://github.com/user-attachments/assets/cb659af4-3cf6-48e6-9c0d-c9e93ddc02f9)
+    ![회원가입](https://github.com/user-attachments/assets/cb659af4-3cf6-48e6-9c0d-c9e93ddc02f9)
 
     <br/>
 
