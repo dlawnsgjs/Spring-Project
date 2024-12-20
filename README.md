@@ -165,8 +165,8 @@
     * 사용자가 로그인 하였을시 메인페이지 우측상단에 이름이 보여지게 됩니다.
     * 아이디는 회원가입할 때 작성한 아이디가 바로 쓰여져 있습니다.
     * 비밀번호 잘못 입력시 경고창이 출력됩니다.
-
-   
+    
+    ![로그인](https://media.githubusercontent.com/media/dlawnsgjs/Spring-Project/refs/heads/main/login.gif)
 
 <br/>
 <br/>
