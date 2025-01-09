@@ -11,6 +11,12 @@
   <h1 align="center">Spring Framework Project 영화어때</h1>
   <h3 align="center">팀명 : 202 Success</h3>
   <br /><br />
+
+
+  ### ✔️ 전체 파일<br>
+[영화어때 (1).pdf](https://github.com/user-attachments/files/18355687/1.pdf)
+<br><br><br>
+
   
   ## 목차
   
