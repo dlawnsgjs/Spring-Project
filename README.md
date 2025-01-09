@@ -14,7 +14,7 @@
 
 
   ### ✔️ 전체 파일<br>
-[영화어때 (1).pdf](https://github.com/user-attachments/files/18355687/1.pdf)
+[영화어때.pdf](https://github.com/user-attachments/files/18355687/1.pdf)
 <br><br><br>
 
   
